@@ -72,3 +72,12 @@ Orbe.AI - material de referência
    rpa_ambiente.rst
    rpa_fluxo_trabalho.rst
    rpa_pyautogui.rst
+   
+.. toctree::
+   :caption: WEB SCRAPING
+   :maxdepth: 1
+   
+   web_scrap_introducao.rst
+   web_scrap_html.rst
+   web_scrap_pratica.rst
+
