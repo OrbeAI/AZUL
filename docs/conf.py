@@ -45,5 +45,12 @@ html_context = {
 "commit": False,
 }
 
+html_static_path = ['_static']
+
+html_css_files = [
+    'css/custom.css',
+]
+
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
