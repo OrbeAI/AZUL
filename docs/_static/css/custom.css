@@ -1,4 +1,4 @@
-div.rst-versions.shift-up > div > div > dl:nth-child(3) {
+div.rst-versions.shift-up > div.rst-other-versions > div.injected > dl:nth-child(3) {
     display: none;
 }
 
